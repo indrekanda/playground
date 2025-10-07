@@ -4,4 +4,17 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "jupyterlab",
+    "ipykernel",
+    "ipywidgets",
+    "pandas",
+    "openai",
+    "datasets",
+    "torch",
+    "torchvision",
+    "torchaudio",
+    "transformers==4.48.0",
+    "sentence-transformers==3.3.1",
+    "accelerate",
+]

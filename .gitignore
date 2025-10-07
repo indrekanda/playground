@@ -39,7 +39,6 @@ Thumbs.db
 # Data folders (keep structure, ignore content)
 data/
 datasets/
-misc/
 *.csv
 *.json
 *.xlsx
@@ -87,3 +86,7 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.jsonmisc/
+
+# other
+misc/
+*links.txt
