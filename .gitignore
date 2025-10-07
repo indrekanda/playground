@@ -39,6 +39,7 @@ Thumbs.db
 # Data folders (keep structure, ignore content)
 data/
 datasets/
+misc/
 *.csv
 *.json
 *.xlsx
